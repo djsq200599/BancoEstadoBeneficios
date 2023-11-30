@@ -1,0 +1,12 @@
+{
+    "name": "json-server-glitch-tutorial",
+    "version": "1.0.0",
+    "description": "Tutorial de JSON Server en Glitch",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "json-server": "^0.17.0"
+    }
+  }

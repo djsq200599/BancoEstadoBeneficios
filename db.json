@@ -1,0 +1,429 @@
+[
+    {
+      "web-scraper-order": "1701311665-1",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Compra lo que quieras y paga en",
+      "infoBeneficio": "3 o 6 cuotas sin interés en comercios nacionales.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_79979_2034838426/imgCard.coreimg.jpeg/1700622953660/tarjetas-472x327.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-2",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Para volar por Chile y Sudamérica​",
+      "infoBeneficio": "10% dto. adicional en pasajes con JetSMART en el Black SMART.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_79979_625466384/imgCard.coreimg.jpeg/1700623004896/jetsmart-472x3276.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-3",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "30% de dto. en Casaideas.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__868257399/imgCard.coreimg.jpeg/1701103114918/casa-ideas-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-4",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus Tarjetas de Crédito Visa.",
+      "infoBeneficio": "40% de dto. en Amphora.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1040783810/imgCard.coreimg.jpeg/1701103445413/amphora-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-5",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus Tarjetas de Crédito Visa.",
+      "infoBeneficio": "40% de dto. en ropa, comprando en Kaya Unite.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1318339831/imgCard.coreimg.jpeg/1701103461932/kaya-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-6",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Barbanegra de domingo a martes.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1233460193/imgCard.coreimg.jpeg/1700685595329/barbanegra-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-7",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Barbazul de domingo a martes.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__544059030/imgCard.coreimg.jpeg/1700685631606/barbazul-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-8",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Barbazul Beach Garden de domingo a martes.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__527155393/imgCard.coreimg.jpeg/1700685446021/barbazul-beach-garden-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-9",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo para Clientes Pyme",
+      "infoBeneficio": "Aprovecha estas oportunidades con tus Tarjetas BancoEstado.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_79979_1105544898/imgCard.coreimg.jpeg/1699294469610/jetsmart-pyme-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-10",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Alivia el pago de contribuciones",
+      "infoBeneficio": "3 cuotas sin interés usando botón Compraquí en tesoreria.cl o sii.cl",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_79979_13946411/imgCard.coreimg.jpeg/1700574346142/contribuciones-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-11",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "25% de dto. en BIBI",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__312109790/imgCard.coreimg.png/1699023278202/card-foto-bibi.png"
+    },
+    {
+      "web-scraper-order": "1701311665-12",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "25% de dto. en Coney Jump todos los días",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__486873155/imgCard.coreimg.png/1699023412008/card-foto-coneyjump.png"
+    },
+    {
+      "web-scraper-order": "1701311665-13",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "Recarga $15.000 y gana $15.000 extra en Coney Park",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1139086151/imgCard.coreimg.png/1699023575146/card-foto-coneypark.png"
+    },
+    {
+      "web-scraper-order": "1701311665-14",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Pharmaknop y Knop Laboratorios.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1504175996/imgCard.coreimg.png/1699023770889/card-foto-farmaciasknop.png"
+    },
+    {
+      "web-scraper-order": "1701311665-15",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. diario en Cocina ilko.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1982078346/imgCard.coreimg.png/1699023854571/card-foto-cocinailko.png"
+    },
+    {
+      "web-scraper-order": "1701311665-16",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Lhotse Store.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1353490543/imgCard.coreimg.png/1699023937200/card-foto-lhotse.png"
+    },
+    {
+      "web-scraper-order": "1701311665-17",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "30% de dto. todos los martes en Marley Coffee.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1045620797/imgCard.coreimg.png/1699024016053/card-foto-marley.png"
+    },
+    {
+      "web-scraper-order": "1701311665-18",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "15% de dto. en Me lo llevo.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__620020746/imgCard.coreimg.png/1699024160093/card-foto-melollevo.png"
+    },
+    {
+      "web-scraper-order": "1701311665-19",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Ópticas Schilling.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__941458959/imgCard.coreimg.png/1699024435543/card-foto-opticasschilling.png"
+    },
+    {
+      "web-scraper-order": "1701311665-20",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "25% de dto. lunes y martes en Petrizzio.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__978696840/imgCard.coreimg.png/1699024523605/card-foto-petrizzio.png"
+    },
+    {
+      "web-scraper-order": "1701311665-21",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. diario en Virutex.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1148010037/imgCard.coreimg.png/1699024939248/card-foto-virutex.png"
+    },
+    {
+      "web-scraper-order": "1701311665-22",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "30% de dto. en Smiley Kids Food.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__918878594/imgCard.coreimg.png/1699024789315/card-foto-smileykids.png"
+    },
+    {
+      "web-scraper-order": "1701311665-23",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. para nuevos clientes en SuperZoo.cl.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__558925409/imgCard.coreimg.png/1699024864203/card-foto-superzoo.png"
+    },
+    {
+      "web-scraper-order": "1701311665-24",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Supletech.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1001601611/imgCard.coreimg.png/1699024885445/card-foto-supletech.png"
+    },
+    {
+      "web-scraper-order": "1701311665-25",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en electro y cuidado capilar en TUA.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__968786092/imgCard.coreimg.png/1699024909902/tua-card.png"
+    },
+    {
+      "web-scraper-order": "1701311665-26",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Wild Foods.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__2130292919/imgCard.coreimg.png/1699024956167/card-foto-wildfoods.png"
+    },
+    {
+      "web-scraper-order": "1701311665-27",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "30% de dto. en entradas de Yukids todos los días.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1607706491/imgCard.coreimg.png/1699024972854/card-foto-yukids.png"
+    },
+    {
+      "web-scraper-order": "1701311665-28",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Exclusivo pagando con tus  Tarjetas de Crédito Visa",
+      "infoBeneficio": "20% de dto. en Simplit Home.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__438240843/imgCard.coreimg.png/1699024606893/card-foto-simplit.png"
+    },
+    {
+      "web-scraper-order": "1701311665-29",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Todo en moda infantil",
+      "infoBeneficio": "20% dto. adicional en www.pillin.com sección “nueva colección”.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__2049665039/imgCard.coreimg.jpeg/1699927963741/pillin-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-30",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Para volar",
+      "infoBeneficio": "por Chile y Sudamérica.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_79979_1699363466/imgCard.coreimg.png/1694793221670/jestmart-descuentos-472x376.png"
+    },
+    {
+      "web-scraper-order": "1701311665-31",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Aprovecha este beneficio en educación",
+      "infoBeneficio": "paga en 6 o 10 cuotas con tasa especial de 0,89%",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1114126570/imgCard.coreimg.jpeg/1698669802961/educacion-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-32",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Un aliado para tu salud de martes a domingo",
+      "infoBeneficio": "Compra 3 productos seleccionados iguales y obtén 33% de descuento",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__663232186/imgCard.coreimg.jpeg/1698670752880/simi-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-33",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Vestuario de tu equipo favorito",
+      "infoBeneficio": "15% dto. moda urbana e indumentaria femenina en tienda.udechile.cl",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy_456429262/imgCard.coreimg.jpeg/1699928403927/00udechile-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-34",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Para fanáticos de verdad",
+      "infoBeneficio": "20% dto. en todo el sitio web tienda.colocolo.cl​.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__138928811/imgCard.coreimg.jpeg/1699928422773/colocolo-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-35",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Cuida tu salud bucal",
+      "infoBeneficio": "Pack Prevención Dental: Diagnóstico + Limpieza a $18.990",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__2016159803/imgCard.coreimg.jpeg/1696518015736/integramedica-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-36",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Cuidando tu salud bucal con un Tratamiento dental",
+      "infoBeneficio": "60% dto. en Tratamiento Dental IntegraMédica y más.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1642279648/imgCard.coreimg.jpeg/1699927010640/01-integramedica-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-37",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Aprovecha el descuento en moda y tendencia",
+      "infoBeneficio": "20% dto. en vestuario y calzado mujer, hombre e infantil.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_79979_1120769820/imgCard.coreimg.jpeg/1682384533232/corona-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-38",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Disfruta de las cosas simples",
+      "infoBeneficio": "Usando tus Tarjetas BancoEstado Mastercard.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1910942566/imgCard.coreimg.jpeg/1688739462281/mastercard-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-39",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Tu salud en la comodidad de tu hogar",
+      "infoBeneficio": "30% de descuento en Mediclic.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/item_1640094822516_c/imgCard.coreimg.jpeg/1688739558896/mediclic-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-40",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Disfruta ahorrando",
+      "infoBeneficio": "Hasta 35% dto. en productos seleccionados",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card/imgCard.coreimg.jpeg/1668793707947/unimarc-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-41",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Preocupados de tu salud y la de tu familia",
+      "infoBeneficio": "15% dto. en RedSalud",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_11571/imgCard.coreimg.jpeg/1696515960190/redsalud--472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-42",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Si vas a volar, regístrate y obtén",
+      "infoBeneficio": "6 o 12 cuotas sin interés en www.JetSMART.com",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_79979400/imgCard.coreimg.jpeg/1641998035014/jet-smart-472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-43",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Promociones exclusivas en Claro",
+      "infoBeneficio": "40% dto. en Plan Móvil Max L Libre y ofertas en smartphones.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy/imgCard.coreimg.jpeg/1684308380427/claro-472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-44",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Disfruta la tecnología en Claro",
+      "infoBeneficio": "4 a 24 cuotas sin interés",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy/imgCard.coreimg.jpeg/1684308380701/claro-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-45",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Renueva tu closet en un solo lugar",
+      "infoBeneficio": "15% dto. en Fashions Park.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__538349159/imgCard.coreimg.jpeg/1688128387130/fashion-park-472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-46",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Realiza envíos a todo Chile",
+      "infoBeneficio": "Aprovecha 10% dto. en Blue Express",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1140426432/imgCard.coreimg.jpeg/1690561748750/blue-express-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-47",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Encuentra todo para tu rutina de belleza con",
+      "infoBeneficio": "10% dto. adicional en www.vesperstore.cl",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1321930149/imgCard.coreimg.jpeg/1683576768749/vesper-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-48",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Para mantenerte bella",
+      "infoBeneficio": "15% de dto. en tiendas y en la web www.tua.cl",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__805776811/imgCard.coreimg.jpeg/1688128136229/tua-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-49",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Disfruta de la tecnología donde quieras",
+      "infoBeneficio": "10% dto. adicional en www.ankerstore.cl",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__2102250612/imgCard.coreimg.jpeg/1683873828446/ankerstore-card-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-50",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Para comprar tu perfume favorito",
+      "infoBeneficio": "10% dto. adicional en Elite Perfumes.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy_1970571358/imgCard.coreimg.jpeg/1654270139071/elite-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-51",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Hoteles Accor en Chile y Sudamérica",
+      "infoBeneficio": "Con hasta 30% de dto.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/item_1640094822516_c_915547252/imgCard.coreimg.jpeg/1640094860753/accor-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-52",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "13 a 24 cuotas sin interés",
+      "infoBeneficio": "en tiendas Movistar adheridas a Transbank.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_11571_1100335800/imgCard.coreimg.jpeg/1684308381501/movistar-472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-53",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Tus compras todos los miércoles en",
+      "infoBeneficio": "clubsoftys.cl con 40% descuento",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_11571_177305092/imgCard.coreimg.jpeg/1661802720414/club-softys--todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-54",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Aprovecha este beneficio",
+      "infoBeneficio": "6 cuotas sin interés en comercios detallados para mascotas",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1435022294/imgCard.coreimg.jpeg/1676044456730/beneficio-mascota-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-55",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "En Red Salud podrás pagar",
+      "infoBeneficio": "de 4 a 24 cuotas sin interés",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_11571_2001812245/imgCard.coreimg.jpeg/1657635740834/redsalud-2-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-56",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Descuentos hasta $3.000 en recarga de gas",
+      "infoBeneficio": "en cilindros de 5, 11, 15 kilos.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy_/imgCard.coreimg.jpeg/1686170132580/lipigas-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-57",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Servicios médicos para ti y tu familia.",
+      "infoBeneficio": "20% dto. en Examedi.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1419570850/imgCard.coreimg.jpeg/1688132894192/examedi-472x376.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-58",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Tu comida favorita en la puerta de tu hogar.",
+      "infoBeneficio": "1 mes de Rappi Prime gratis.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1996767503/imgCard.coreimg.jpeg/1688132055911/rappi-472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-59",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Todo lo que necesitas para tu cocina",
+      "infoBeneficio": "10% dto. adicional en instantstore.cl",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__853097426/imgCard.coreimg.jpeg/1652119330850/instant-472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-60",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Aprovecha beneficios en",
+      "infoBeneficio": "todos los productos de pc Factory.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1783630845/imgCard.coreimg.jpeg/1667483491570/pc-factory-472x376-todosuma.jpeg"
+    },
+    {
+      "web-scraper-order": "1701311665-61",
+      "web-scraper-start-url": "https://www.bancoestado.cl/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios.html#/",
+      "tituloBeneficio": "Te apoyamos",
+      "infoBeneficio": "6 o 12 cuotas sin interés en Centros de Salud.",
+      "imagenBeneficio-src": "/content/bancoestado-public/cl/es/home/home/todosuma---bancoestado-personas/todos-beneficios/_jcr_content/root/container/container/container/cards_list/cards/card_copy_copy_copy__1290928212/imgCard.coreimg.jpeg/1659022328915/salud-472x376-todosuma.jpeg"
+    }
+  ]
